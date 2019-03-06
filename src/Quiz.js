@@ -15,6 +15,7 @@ class Quiz extends Component {
             </div>
         </div>)
     }
+
 }
 /*
 Quiz.propTypes = {
